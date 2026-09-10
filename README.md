@@ -41,7 +41,6 @@ helpers to display **numbers** and **text** with decimal-point control.
 
 - ✅ 3-digit multiplexed display (configurable via `SEG_NUM_DIGITS`)
 - ✅ Supports both **common-cathode** and **common-anode** displays
-- ✅ Full **96-character ASCII font table** (space → `~`)
 - ✅ Signed integers (`-99` to `999`) and unsigned integers (`0` to `999`)
 - ✅ Arbitrary text strings (up to 3 chars)
 - ✅ Per-digit **decimal-point** control
