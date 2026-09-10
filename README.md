@@ -427,7 +427,7 @@ This project is licensed under the **MIT License** — see the
 
 ## Contact
 
-- **Author:** Ali Rostamzadeh
+- **Author:** Abolfazl Rostamzadeh
 - **Issues:** [GitHub Issues](https://github.com/a-rostamzadeh/seven_segment/issues)
 - **Email:** a.rostamzadeh@gmail.com
 - **Documentation:** [Wiki](https://github.com/a-rostamzadeh/seven_segment/wiki)
